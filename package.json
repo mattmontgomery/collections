@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "npm install && npx serve"
+    "start" : "node app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/mattmontgomery/collections#readme",
   "dependencies": {
-    "serve": "^11.2.0"
   }
 }

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/mattmontgomery/collections#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "prettier": "^1.19.1"
   }
 }

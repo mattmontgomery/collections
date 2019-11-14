@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"OK: no test specified\" && exit 0"
+    "start" : "serve"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mattmontgomery/collections/issues"
   },
-  "homepage": "https://github.com/mattmontgomery/collections#readme"
+  "homepage": "https://github.com/mattmontgomery/collections#readme",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
 }
